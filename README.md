@@ -1,5 +1,4 @@
-# 💫 About Me:
-## 👋 Salut, moi c'est **Marius Ceugniet** !
+# 👋 Salut, moi c'est **Marius Ceugniet** !
 
 🎓 Étudiant à **EPITECH Lille** et grand passionné d'Informatique, avec une forte spécialisation en **Intelligence Artificielle**.
 
