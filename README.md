@@ -1,6 +1,6 @@
 # 👋 Salut, moi c'est **Marius Ceugniet** !
 
-<h4>🎓 Étudiant à <strong>EPITECH Lille</strong> et grand passionné d'Informatique, avec une forte spécialisation en <strong>Intelligence Artificielle</strong>.</h4>
+<h4>🎓 Étudiant à <strong>EPITECH Lille</strong>, passionné d'Informatique et spécialisé en <strong>Intelligence Artificielle</strong>.</h4>
 
 <h4>📬 Un projet en tête ou envie de networker ? <strong><a href="mailto:ceugnietmarius@gmail.com">Envoyez-moi un email</a></strong>, on en discute avec plaisir !</h4>
 
